@@ -1,0 +1,23 @@
+﻿  源.cpp
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(15): warning C4005: “MAX”: 宏重定义
+  e:\opencv\build\include\opencv2\core\cvdef.h(341): note: 参见“MAX”的前一个定义
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(64): warning C4101: “D12”: 未引用的局部变量
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(63): warning C4101: “j”: 未引用的局部变量
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(63): warning C4101: “i”: 未引用的局部变量
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(62): warning C4101: “r”: 未引用的局部变量
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(181): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(182): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(183): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  Project1.vcxproj -> F:\Engineer\模式识别\处理图片\Project1\x64\Debug\Project1.exe

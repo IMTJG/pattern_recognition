@@ -1,0 +1,6 @@
+﻿  源.cpp
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(17): warning C4005: “MAX”: 宏重定义
+  e:\opencv\build\include\opencv2\core\cvdef.h(330): note: 参见“MAX”的前一个定义
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(50): warning C4101: “c”: 未引用的局部变量
+f:\engineer\模式识别\处理图片\project1\project1\源.cpp(114): warning C4101: “p”: 未引用的局部变量
+opencv_world400.lib(opencv_world400.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
